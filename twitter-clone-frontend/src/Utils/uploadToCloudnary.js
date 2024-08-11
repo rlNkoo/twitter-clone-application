@@ -5,7 +5,7 @@ export const uploadToCloudnary=async(pics)=>{
         data.append("upload_preset","instagram");
         data.append("cloud_name","drtucghgb")
 
-        const res = await fetch("https://api.cloudinary.com/v1_1/drtucghgb/image/upload",{
+        const res = await fetch("your cloud upload url",{
           method:"post",
           body:data
         })
