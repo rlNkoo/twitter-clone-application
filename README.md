@@ -24,5 +24,5 @@ Welcome to the Twitter Clone, a full-stack web application that replicates the c
 - **React:** A powerful JavaScript library for building interactive and dynamic user interfaces. React allows for the creation of reusable components.
 - **Redux:** Manages the application's state, making it easier to handle data flow and state management across the app.
 - **Formik:** Simplifies form handling in React, offering built-in validation and submission handling.
-- **Google Authentication:** Adds an additional layer of security and convenience, allowing users to log in using their Google accounts.
+- **Google Authentication:** Adds an additional layer of security and convenience, allowing users to log in using their Google accounts. 
 - **Material-UI (MUI) & Tailwind CSS:** Combines MUI's component-based styling with Tailwind's utility-first CSS framework to create a visually appealing and responsive design.
